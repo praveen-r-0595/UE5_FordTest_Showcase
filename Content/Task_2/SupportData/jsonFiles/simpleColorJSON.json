@@ -1,0 +1,10 @@
+{
+  
+  "name": "materialFordSimpleColor",
+  "type": "simpleColor",
+  "materialtype":"Opaque",
+  "color":1,
+  "roughness": 0,
+  "metallic":false
+
+}

@@ -1,0 +1,29 @@
+{
+  
+  "name": "materialFordTextures",
+  "type": "textures",
+
+  "materialtype":"Opaque",
+
+  "tiling":0.75,
+
+  "albedoparams":{
+    "brightness":8,
+    "contrast":0,
+    "tint":0,
+  },
+
+  "normalparams":{
+    "normalintensity":1
+  },
+
+  "aormparams":{
+    "roughness":0.25,
+    "specular":0.25
+  },
+
+  "emissionparams":{
+    "emitintensity":1
+  }
+
+}
